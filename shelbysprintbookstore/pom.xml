@@ -133,11 +133,6 @@
             <version>3.3.0</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.security.oauth</groupId>
-            <artifactId>spring-security-oauth2</artifactId>
-            <version>${oauth.version}</version>
-        </dependency>
     </dependencies>
 
     <build>
